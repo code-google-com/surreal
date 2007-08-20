@@ -1,0 +1,18 @@
+#summary Root page of the wiki
+
+= Introduction =
+
+The Unreal engine is a complex engine, designed from the start to be easily extensible. I will not describe how the engine itself work here, there is already a lot of documentation around the net doing so. This wiki will simply list reference to this documentation and talks about the project itself, difficulties encountered and other issues.
+
+
+= Details =
+[http://wiki.beyondunreal.com/wiki/ Beyond Unreal Wiki] : Contains *a lot* of information about the unreal engine itself and file formats used by the engine.
+
+[https://sourceforge.net/projects/utpackages UTPackages] : This is an open source project aimed at creating libraries to read unreal package contents. Sadly it's doing in Delphi (Pascal).
+
+[http://unreal.epicgames.com/Packages.htm] : Unreal package informations directly from Epic. 
+
+[http://www.celticwarriors.net/Website/Mirrors/Epic%20Helpfiles/ Epic Help Files Mirror] : This is a mirror I've found of the Epic help files intended to be used by the engine licensees. 
+
+[http://icculus.org/~chunky/ut/ UT Randomness] : Another website with stuff on UT. Contains the source of UT from the CVS of the defunct Loki.
+
