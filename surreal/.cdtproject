@@ -12,7 +12,9 @@
     
     
     
+    
 
+    
     
     
     
@@ -31,6 +33,7 @@
       <pathentry kind="src" path="Window"/>
       <pathentry kind="src" path="XLaunch"/>
       <pathentry kind="src" path="XDrv"/>
+      <pathentry kind="src" path="ALAudio"/>
     </item>
     
     
@@ -40,7 +43,9 @@
     
     
     
+    
 
+  
   
   
   
