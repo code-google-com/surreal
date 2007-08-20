@@ -1,14 +1,52 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0"?>
 <?eclipse-cdt version="2.0"?>
-
 <cdtproject id="org.eclipse.cdt.managedbuilder.core.managedMake">
-<extension id="org.eclipse.cdt.core.ELF" point="org.eclipse.cdt.core.BinaryParser"/>
-<extension id="org.eclipse.cdt.managedbuilder.core.ManagedBuildManager" point="org.eclipse.cdt.core.ScannerInfoProvider"/>
-<data>
-<item id="org.eclipse.cdt.core.pathentry">
-<pathentry kind="src" path=""/>
-<pathentry kind="out" path=""/>
-<pathentry kind="con" path="org.eclipse.cdt.managedbuilder.MANAGED_CONTAINER"/>
-</item>
-</data>
+  <extension point="org.eclipse.cdt.core.BinaryParser" id="org.eclipse.cdt.core.ELF"/>
+  <extension point="org.eclipse.cdt.core.ScannerInfoProvider" id="org.eclipse.cdt.managedbuilder.core.ManagedBuildManager"/>
+  <data>
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    <item id="org.eclipse.cdt.core.pathentry">
+      <pathentry kind="src" path="Core"/>
+      <pathentry kind="out" path=""/>
+      <pathentry kind="con" path="org.eclipse.cdt.managedbuilder.MANAGED_CONTAINER"/>
+      <pathentry kind="src" path="Engine"/>
+      <pathentry kind="src" path="OpenGLDrv"/>
+      <pathentry kind="src" path="System"/>
+      <pathentry kind="src" path="UCC"/>
+      <pathentry kind="src" path="Window"/>
+      <pathentry kind="src" path="XLaunch"/>
+      <pathentry kind="src" path="XDrv"/>
+    </item>
+    
+    
+    
+    
+    
+    
+    
+    
+
+  
+  
+  
+  
+  
+  
+  
+  </data>
 </cdtproject>
