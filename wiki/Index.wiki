@@ -16,6 +16,8 @@ The Unreal engine is a complex engine, designed from the start to be easily exte
 
 [http://icculus.org/~chunky/ut/ UT Randomness] : Another website with stuff on UT. Contains the source of UT from the CVS of the defunct Loki.
 
+
+[http://www.acordero.org/prog_proj_UTPDL_Download.html]
 = Legal Aspect =
 As I know of, there is nothing illegal in reimplementing an engine from scratch. Even if we have access to Loki's CVS, the public 4.32 UT source and even some old 4.02 sources, we will not copy code from it as this would be a copyright infringement. Even thought this could speed up the project in some ways, doing so would only result in a more error prone source code. We strongly think it's more advantageous to rewrite the hole thing, that it will lead to bigger improvements and that our knowledge of the internal working of the engine shall only be better.
 
